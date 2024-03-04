@@ -1,4 +1,4 @@
-package com.luntek.quartz.config.quaztr;
+package com.luntek.quartz.config;
 
 import org.quartz.*;
 import org.slf4j.Logger;

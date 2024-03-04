@@ -1,4 +1,4 @@
-package com.luntek.quartz.config.quaztr;
+package com.luntek.quartz.config;
 
 import com.luntek.quartz.service.SysTaskService;
 import com.luntek.quartz.model.SysTask;
